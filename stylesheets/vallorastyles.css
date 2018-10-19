@@ -8,4 +8,5 @@ li        {color: #003366; font-size: 16px}
 dl        {color: #003366; font-size: 16px}
 dt        {font-weight: bold;}
 table, th,td     {color: #003366; font-size: 16px; border: 0.5px solid #003366; border-collapse: collapse;}
+tfoot > tr td   {font-size: 12px; text-align: center;}
 caption   {color: #003366; font-weight: bold; font-size: 16px}
